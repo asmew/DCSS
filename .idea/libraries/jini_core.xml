@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jini-core">
+    <CLASSES>
+      <root url="jar://E:/Downloads/apache-river-2.2.2-modifiedByGA/apache-river-2.2.2/lib/jini-core.jar!/" />
+      <root url="jar://E:/Downloads/apache-river-2.2.2-modifiedByGA/apache-river-2.2.2/lib/jini-ext.jar!/" />
+      <root url="jar://E:/Downloads/apache-river-2.2.2-modifiedByGA/apache-river-2.2.2/lib/outrigger.jar!/" />
+      <root url="jar://E:/Downloads/apache-river-2.2.2-modifiedByGA/apache-river-2.2.2/lib/reggie.jar!/" />
+      <root url="jar://E:/Downloads/apache-river-2.2.2-modifiedByGA/apache-river-2.2.2/lib/sun-util.jar!/" />
+      <root url="jar://E:/Downloads/apache-river-2.2.2-modifiedByGA/apache-river-2.2.2/lib-dl/reggie-dl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
